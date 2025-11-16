@@ -1,5 +1,5 @@
 class Aluno:
-    matricula = 0
+    matricula = None
     nome = ""
     dt_nascimento = ""
     
